@@ -1,0 +1,11 @@
+{
+  "name": "react-ts-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chun5398/react-ts-boilerplate.git",
+  "author": "ChunYangQiao <chunyangqiao@yzw.cn>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.68.0"
+  }
+}
