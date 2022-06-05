@@ -6,7 +6,7 @@
   "author": "ChunYangQiao <chunyangqiao@yzw.cn>",
   "license": "MIT",
   "scripts": {
-    "cm": "git-cz"
+    "build": "webpack --config ./scripts/webpack.base.js"
   },
   "devDependencies": {
     "@babel/core": "^7.18.2",
